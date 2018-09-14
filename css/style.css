@@ -4,3 +4,21 @@
 .below-bg{
 	background-color: #e6c36f;
 }
+.nav-item a.nav-link.js-scroll-trigger {
+    color: #353334;
+    font-weight: 600;
+    padding: 0px 12px 0px 12px;
+}
+
+.nav-item {
+    padding: 5px 5px 5px 5px;
+}
+.nav-item:hover{
+	background-color:#c8a551;
+}
+.navbar{
+	padding: 0px;
+}
+.primary-header{
+    padding: 15px 0px 15px 0px;
+}
