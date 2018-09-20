@@ -22,3 +22,29 @@
 .primary-header{
     padding: 15px 0px 15px 0px;
 }
+.row.item-bg {
+    background-color: #eeeaeb;
+}
+.above-header .navbar, .below-header .navbar {
+    min-height: auto; 
+    margin-bottom: 0px; 
+    border: 1px solid transparent;
+}
+.item-bg h3{
+color:#b9a171;
+}
+.img-content img{
+    margin-right: 20px;
+}
+#slider .carousel-indicators li {
+    width: 20px;
+    height: 20px;
+    margin: 5px;
+    background-color: #87705e;
+    border:2px solid #e6c46d;
+}
+#slider .carousel-indicators li:hover, #slider .carousel-indicators .active{
+    border-color:#ffffff;
+}{
+    border-color:#ffffff;
+}
